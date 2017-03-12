@@ -1,0 +1,21 @@
+﻿<Window x:Class="SelTag.NET.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SelTag.NET" Height="408.911" Width="744.472">
+    <Viewbox>
+    <Grid>
+        <Button Content="Browse" Name="btnBrowse" HorizontalAlignment="Left" Margin="630,10,0,0" VerticalAlignment="Top" Width="75" Height="25" Click="btnBrowse_Click" RenderTransformOrigin="0.411,0.443"/>
+        <Label Content="" Name="lblName" FontSize="10" BorderBrush="Gray" BorderThickness="1" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="606" Height="20"/>
+            <DataGrid FontSize="10" FontFamily="Arial" AutoGenerateColumns="True" Name="dtGridResults" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top" Height="294" Width="705">
+                <DataGrid.ContextMenu >
+                    <ContextMenu>
+                        <MenuItem Name="menuGetStat" Header="Get Statistics" Click="menuGetStat_Click"></MenuItem>
+                    </ContextMenu>
+                </DataGrid.ContextMenu>
+            </DataGrid>
+        <Label Content="Filter using" HorizontalAlignment="Left" Margin="10,44,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="cbxTxt" HorizontalAlignment="Left" Margin="83,48,0,0" VerticalAlignment="Top" Width="120" DropDownClosed="cbxTxt_DropDownClosed"/>
+            <Button Content="Export" Name="btnExport" Click="btnExport_Click" HorizontalAlignment="Left" Margin="630,47,0,0" VerticalAlignment="Top" Width="75" Height="23"/>
+        </Grid>
+    </Viewbox>
+</Window>

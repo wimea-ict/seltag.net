@@ -1,0 +1,16 @@
+D:\Dropbox\code\SelTag.NET\SelTag.NET\bin\Release\SelTag.NET.exe.config
+D:\Dropbox\code\SelTag.NET\SelTag.NET\bin\Release\SelTag.NET.exe
+D:\Dropbox\code\SelTag.NET\SelTag.NET\bin\Release\SelTag.NET.pdb
+D:\Dropbox\code\SelTag.NET\SelTag.NET\bin\Release\CEDAT.MathLab.dll
+D:\Dropbox\code\SelTag.NET\SelTag.NET\bin\Release\GenericUtilities.dll
+D:\Dropbox\code\SelTag.NET\SelTag.NET\bin\Release\GenericUtilities.pdb
+D:\Dropbox\code\SelTag.NET\SelTag.NET\obj\Release\MainWindow.baml
+D:\Dropbox\code\SelTag.NET\SelTag.NET\obj\Release\MainWindow.g.cs
+D:\Dropbox\code\SelTag.NET\SelTag.NET\obj\Release\App.g.cs
+D:\Dropbox\code\SelTag.NET\SelTag.NET\obj\Release\SelTag.NET_MarkupCompile.cache
+D:\Dropbox\code\SelTag.NET\SelTag.NET\obj\Release\SelTag.NET.g.resources
+D:\Dropbox\code\SelTag.NET\SelTag.NET\obj\Release\SelTag.NET.Properties.Resources.resources
+D:\Dropbox\code\SelTag.NET\SelTag.NET\obj\Release\SelTag.NET.csproj.GenerateResource.Cache
+D:\Dropbox\code\SelTag.NET\SelTag.NET\obj\Release\SelTag.NET.exe
+D:\Dropbox\code\SelTag.NET\SelTag.NET\obj\Release\SelTag.NET.pdb
+D:\Dropbox\code\SelTag.NET\SelTag.NET\obj\Release\SelTag.NET.csprojResolveAssemblyReference.cache
